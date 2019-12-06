@@ -5,6 +5,7 @@ import * as serviceWorker from './serviceWorker';
 
 import Container from './component/Layout'
 console.log(ReactDOM)
+
 ReactDOM.render(
     <Container/>,
   document.getElementById('root'),
