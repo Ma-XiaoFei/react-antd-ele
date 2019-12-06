@@ -18,6 +18,7 @@ function Container (){
             left: 0,
           }}
         >
+          
             <div className="logo" />
             <Slide></Slide>
           
